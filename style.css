@@ -1,0 +1,34 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  color: #050A30;
+}
+
+header {
+  background-color: #1f2b8d;
+  padding: 1rem;
+  color: white;
+}
+
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.hero {
+  padding: 2rem;
+  background-color: #f2e1c8;
+}
+
+.hero button {
+  margin-right: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #F88379;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
